@@ -4,7 +4,7 @@
 ## 1️⃣ Modèle OSI
 Le modèle **OSI (Open Systems Interconnection)** comporte **7 couches** :  
 
-1. **Physique (couche 1) ** : Transmission des bits sur le support (câble, fibre, ondes radio).  
+1. **Physique (couche 1)** : Transmission des bits sur le support (câble, fibre, ondes radio).  
 2. **Liaison de données (couche 2)** : Transmission fiable de trames entre deux machines connectées (ex :protocole Ethernet, adresse MAC).  
 3. **Réseau (couche 3)** : Acheminement des paquets entre plusieurs réseaux (ex :protocole IP, adresse ip).  
 4. **Transport (couche 4)** : Gestion de la transmission de données d’un point à un autre, fiable ou non (ex : protocole TCP/UDP).  
@@ -41,7 +41,7 @@ Le modèle **TCP/IP** comporte **4 couches** :
 
 ## 5️⃣ Fonctionnement d’un routeur
 
-~>Definition
+1>Definition
 Un **routeur** permet de connecter plusieurs réseaux et de **choisir le meilleur chemin** pour les paquets de données. 
 
 -> Utilise des **tables de routage** (tableau représentant les routes connues par le routeur) pour savoir où envoyer chaque paquet.Es tsbles contiennent :
